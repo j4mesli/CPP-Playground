@@ -1,2 +1,5 @@
 # .exe compilers
 *.exe
+
+# vscode
+vscode/*
