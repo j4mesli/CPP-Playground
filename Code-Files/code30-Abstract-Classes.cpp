@@ -69,7 +69,7 @@ class Rectangle : public Shape {
         }
 };
 
-// Square class inherits from Rectangle class
+// Square class inherits from Rectangle class 
 class Square: public Rectangle {
     public:
         Square(double length) : Rectangle(length, length) {}
